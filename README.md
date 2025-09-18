@@ -1,4 +1,4 @@
-# HistoricalArtRestoration
+# GAN Based Histroical Art and Potraits Restoration
 
 ## Hi 👋, My name is Trixie
 
