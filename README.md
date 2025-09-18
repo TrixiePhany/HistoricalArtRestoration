@@ -1,6 +1,8 @@
 # HistoricalArtRestoration
 
 ## Hi 👋, My name is Trixie
+
+_Welcome to another AI-ML Project_ 
 It is a deep learning model used to restore and enhance faces in old photos and historical artworks. It leverages a pre-trained face GAN to provide realistic and faithful details that may have been lost due to aging or damage.
 It was mostly built for my Final Year Project, so I kept it short and sweet. 
 I'll give you a little preview of the work the models have done below :
